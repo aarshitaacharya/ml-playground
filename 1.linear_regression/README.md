@@ -4,7 +4,7 @@ Linear regression is the foundation of machine learning. Before diving into comp
 
 ## What You'll Learn
 
-This repository contains three progressive notebooks that build your understanding from the ground up:
+This repository contains progressive notebooks that build your understanding from the ground up:
 
 ### 1. `foundations.ipynb`
 **Building Linear Regression from Scratch**
