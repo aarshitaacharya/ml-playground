@@ -22,9 +22,18 @@ This repository contains progressive notebooks that gradually deepen your unders
 - Understand the curvature of the loss surface using the Hessian
 - Compare convergence behavior and efficiency with gradient descent
 
+### 3. `perceptron.ipynb`
+**Perceptron Algorithm for Binary Classification**
+- Implement the Perceptron from scratch using NumPy
+- Understand how it differs from logistic and linear regression
+- Learn the misclassification-based update rule
+- Visualize the decision boundary evolution over training
+- Experiment with synthetic linearly separable data
+
 ## Learning Resources
 
 The concepts in these notebooks are based on the following educational resources:
 
 - [Stanford CS229 Lecture Notes](https://cs229.stanford.edu/main_notes.pdf)
 - [Locally Weighted & Logistic Regression - Andrew Ng](https://www.youtube.com/watch?v=het9HFqo1TQ)
+- [Perceptron & GLM - Anand Avati](https://www.youtube.com/watch?v=iZTeva0WSTQ) 
