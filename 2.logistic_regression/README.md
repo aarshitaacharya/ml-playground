@@ -39,6 +39,15 @@ This repository contains progressive notebooks that gradually deepen your unders
 - Plot the decision boundary learned by the model
 - Build a foundation to extend GLM to Poisson, Gaussian, and others
 
+### 5. `softmax.ipynb`
+**Softmax Regression and Cross-Entropy Loss**
+- Implement Softmax for multi-class classification
+- Use **Cross-Entropy Loss** as the loss function for multi-class classification
+- Train the model using **Gradient Descent**
+- Visualize decision boundaries learned by the softmax model
+- Explore how Softmax Regression extends Logistic Regression to multiple classes
+
+
 ## Learning Resources
 
 The concepts in these notebooks are based on the following educational resources:
