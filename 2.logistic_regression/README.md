@@ -30,6 +30,15 @@ This repository contains progressive notebooks that gradually deepen your unders
 - Visualize the decision boundary evolution over training
 - Experiment with synthetic linearly separable data
 
+### 4. `glm.ipynb`
+**Logistic Regression as a Generalized Linear Model (GLM)**
+- Understand how logistic regression fits into the broader GLM framework
+- Use the **Bernoulli distribution** with a **logit link function**
+- Implement gradient descent to optimize the log-likelihood
+- Visualize convergence of the log-loss
+- Plot the decision boundary learned by the model
+- Build a foundation to extend GLM to Poisson, Gaussian, and others
+
 ## Learning Resources
 
 The concepts in these notebooks are based on the following educational resources:
