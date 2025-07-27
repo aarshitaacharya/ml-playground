@@ -45,19 +45,6 @@ Notebooks:
 Each notebook:
 - Is self-contained and beginner-friendly
 - Starts from mathematical intuition
-- Implements models using **only NumPy**
 - Includes plots, animations, or decision boundary visualizations
-
-No prior ML library knowledge required.
-
----
-
-## Why This Exists
-
-Too many ML resources either:
-- Jump straight to libraries without explaining the math
-- Stay too theoretical without showing how to implement
-
-This repo bridges that gap: **you'll understand AND implement**.
 
 ---
