@@ -7,6 +7,18 @@ This folder contains theory and code covering:
    - Mathematical definitions and decomposition of error
    - Classic U-shaped validation curve
 
+2. **Cross-Validation Techniques**
+   - Train-test split
+   - 5-Fold Cross-Validation
+   - Leave-One-Out Cross-Validation (LOOCV)
+   - Visual comparison and use cases
+
+3. **Evaluation Metrics: Precision, Recall, F1, etc.**
+   - Confusion matrix and metric definitions
+   - Mathematical formulas with examples
+   - Visualizations using seaborn/matplotlib
+   - When to use: precision vs recall vs specificity
+
 ## Learning Resources
 
 - [StatQuest: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
