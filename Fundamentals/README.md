@@ -34,3 +34,4 @@ This folder contains theory and code covering:
 - [Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=3)
 - [Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=4)
 - [Entropy](https://www.youtube.com/watch?v=YtebGVx-Fxw&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=7)
+- [Mutual Information](https://www.youtube.com/watch?v=eJIp_mgVLwE&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=8)
