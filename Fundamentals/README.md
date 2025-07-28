@@ -19,6 +19,13 @@ This folder contains theory and code covering:
    - Visualizations using seaborn/matplotlib
    - When to use: precision vs recall vs specificity
 
+4. **Understanding Entropy**
+   - Mathematical definition and formula of entropy
+   - Implementation of entropy in Python
+   - Visualization of binary entropy curve
+   - Entropy of sample label distributions (pure vs mixed classes)
+   - Use case motivation: splitting criteria in decision trees (e.g., ID3)
+
 ## Learning Resources
 
 - [StatQuest: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
