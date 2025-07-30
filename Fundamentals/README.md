@@ -26,6 +26,13 @@ This folder contains theory and code covering:
    - Entropy of sample label distributions (pure vs mixed classes)
    - Use case motivation: splitting criteria in decision trees (e.g., ID3)
 
+5. **Mutual Information**
+   - Definition and formula for MI
+   - Visualizing joint distribution of two variables
+   - Measuring dependency using `mutual_info_classif`
+   - Plotting MI as noise increases (intuition builder)
+   - Use cases: feature selection, decision trees, clustering
+
 ## Learning Resources
 
 - [StatQuest: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
